@@ -1,3 +1,0 @@
-Now chnges made in the Feature branch
-=======
-Practising the merge conflicts

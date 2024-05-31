@@ -1,1 +1,2 @@
 Hi, I am being edited to check the pull command
+I am writing this line to check the fetch command

@@ -1,1 +1,9 @@
-Hi, we are commiting the file
+Hi, we are commiting the file,
+
+story-122
+===========
+int a= 30;
+int b =50;
+
+int a-b;
+

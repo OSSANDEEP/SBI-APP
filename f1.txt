@@ -1,6 +1,6 @@
 Hi, we are commiting the file,
 
-<<<<<<< Updated upstream
+
 story-122
 ===========
 int a= 30;
@@ -13,5 +13,13 @@ Story-121
 int a = 10;
 int b =20;
  int a+b;
->>>>>>> Stashed changes
+
+int a =10;
+int b=10;
+int c = a*b;
+=======
+int x = 10;
+int y =100;
+int z = x+y;
+
 
